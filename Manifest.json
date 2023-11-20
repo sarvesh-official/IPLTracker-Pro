@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "name":"IPL Tracker Pro",
+    "version":"1.0.0",
+    "description": "Track IPL in real time",
+    "author": "Sarvesh",
+    "action": {
+        "default_popup": "index.html",
+        "default_title":"IPL Tracker Pro"
+    }
+
+}

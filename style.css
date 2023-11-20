@@ -1,0 +1,16 @@
+body {
+    min-width: 300px;
+    background-color: transparent;
+    font-size: 15px;
+    background-color: rgba(127, 255, 212, 0.43);
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 20px;
+}
+
+
+#heading {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-weight: 700;
+    text-align: center;
+}
